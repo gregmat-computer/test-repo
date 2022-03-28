@@ -1,1 +1,1 @@
-yo
+//# sourceMappingURL=test.js.map
